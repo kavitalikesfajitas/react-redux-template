@@ -1,7 +1,7 @@
 # React-Redux Boilerplate
  Base React-Redux Boilerplate template
 # Hooks, Lint and Prettify 
- This template comes with airbnb eslint rules, minus a couple of my preferred standards. It also has a pre-commit hook setup that prettifies code before submission and will not let you commit with out fixes lint issues ( to bypass ``--no-verify``)
+ This template comes with airbnb eslint rules, plus couple of my preferred standards. It also has a pre-commit hook setup that prettifies code before submission and will not let you commit with out fixes lint issues ( to bypass ``--no-verify``)
 
 # Redux 
 This has redux logger and thunk setup and a sample action and reducer
